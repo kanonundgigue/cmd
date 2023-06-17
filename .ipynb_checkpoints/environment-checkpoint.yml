@@ -1,5 +1,0 @@
-name: cmd
-channels:
-  - defaults
-dependencies:
-  - python=3.10.11
