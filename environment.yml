@@ -1,4 +1,4 @@
-name: cmd
+name: my_cmd
 channels:
   - defaults
 dependencies:
