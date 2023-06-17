@@ -1,4 +1,4 @@
-# cmd
+# my_cmd
 
 Execute the command as a subprocess and retrieve the result as a list based on newline characters.
 
